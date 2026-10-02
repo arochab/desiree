@@ -1,0 +1,6 @@
+Désirée interface and demonstration: Adam Chabbi.
+GSAP and ScrollTrigger: GreenSock / GSAP, retained distribution copyright headers. https://gsap.com
+Three.js: MIT license, copyright three.js authors. https://github.com/mrdoob/three.js/blob/master/LICENSE
+Inter: SIL Open Font License. https://github.com/rsms/inter
+OpenJarvis: Apache License 2.0, open-jarvis contributors. The private product reuses DigestStore. See OPENJARVIS-LICENSE. https://github.com/open-jarvis/OpenJarvis
+Gmail and WhatsApp trademarks and identification assets belong to their respective owners. No endorsement implied.
